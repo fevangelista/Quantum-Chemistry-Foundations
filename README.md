@@ -1,1 +1,1 @@
-# QuantumChemistryFoundations
+# Quantum Chemistry Foundations
