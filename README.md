@@ -2,4 +2,4 @@
 
 ![logo](Graphics/logo.png)
 
-A set of tutorials that introduce quantum chemistry concepts and software development. It only assumes basic knowledge of Physical Chemistry and Python.
+A step-by-step introduction to quantum chemistry concepts and writing scientific software. It assumes basic Python knowledge and some exposure to computational chemistry.
