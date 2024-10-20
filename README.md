@@ -1,10 +1,10 @@
 # Quantum Chemistry Foundations
 
-**Content**: A step-by-step introduction to quantum chemistry concepts and writing scientific software. It assumes basic Python knowledge and some exposure to computational chemistry.
+**Content**: A step-by-step introduction to quantum chemistry concepts and writing scientific software.
 
 **Target audience**: Anyone interested in learning more about quantum chemistry.
 
-**Prerequisites**: Quantum mechanics and some knowledge of Python programming.
+**Prerequisites**: Basic Python knowledge and some exposure to quantum mechanics or physical chemistry.
 
 **Author**: Francesco A. Evangelista
 
