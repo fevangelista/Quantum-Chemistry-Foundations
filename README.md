@@ -15,9 +15,15 @@ In these tutorials, you will learn about quantum chemistry from a computational 
 
 These tutorials assume some basic knowledge of quantum mechanics and programming in Python. By coding using Jupyter notebooks, you should only need minimal setup to follow and modify the code.
 
+## Tutorials
+
 The following is a list of sections that form the **Quantum Chemistry Foundations** series.
 
 - [01 - An introduction to scientific python](01-Scientific%20Computing/01-Scientific%20Computing.ipynb). A quick introduction to NumPy and other useful tools for scientific computing. This can be skipped if you are already familiar with NumPy.
 - [02 - Hückel theory](02-Hückel%20Theory/02-Hückel%20Theory.ipynb) (🚧 under construction 🚧).
 
 More tutorials and updates are on the way!
+
+## Support
+
+This project is supported by the National Science Foundation under Award CHEM 2312105. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
