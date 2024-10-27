@@ -5,8 +5,11 @@
 ## In brief
 
 **Content**: A step-by-step introduction to quantum chemistry concepts and writing scientific software.
+
 **Target audience**: Students interested in learning more about quantum chemistry.
+
 **Prerequisites**: Basic Python knowledge and some exposure to quantum mechanics or physical chemistry.
+
 **Author**: Francesco A. Evangelista
 
 ## Description
