@@ -24,7 +24,8 @@ These tutorials assume some basic knowledge of quantum mechanics and programming
 The following is a list of sections that form the **Quantum Chemistry Foundations** series.
 
 - [01 - An introduction to scientific python](01-Scientific%20Computing/01-Scientific%20Computing.ipynb). A quick introduction to NumPy and other useful tools for scientific computing. This can be skipped if you are already familiar with NumPy.
-- [02 - Hückel theory](02-Hückel%20Theory/02-Hückel%20Theory.ipynb) (🚧 under construction 🚧).
+- [02 - Hückel theory](02-Hückel%20Theory/02-Hückel%20Theory.ipynb). An introduction to Hückel theory and the concept of expanding molecular orbitals in a basis of atomic orbitals.
+- [03 - Advanced Hückel theory: Properties](03-Hückel%20Theory%20Properties/03-Hückel%20Theory%20Properties.ipynb). An introduction to Hückel theory and the concept of expanding molecular orbitals in a basis of atomic orbitals. (🚧 **under construction** 🚧)
 
 More tutorials and updates are on the way!
 
