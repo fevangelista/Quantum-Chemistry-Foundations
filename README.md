@@ -36,7 +36,7 @@ The following is a list of sections that form the **Quantum Chemistry Foundation
 
 More tutorials and updates are on the way!
 
-## Access via Colab
+## Try Me on Colab
 
 Use [the following link](https://colab.research.google.com/github/fevangelista/Quantum-Chemistry-Foundations) to access and execute the notebooks via Google's Colab.
 
@@ -44,7 +44,7 @@ Use [the following link](https://colab.research.google.com/github/fevangelista/Q
 
 This project is supported by the National Science Foundation under Award CHEM 2312105. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-## Reuse and licensing
+## Reuse and Licensing
 
 These notes are intended for non-commercial applications.
 You can download, modify, and re-use them for learning, teaching, and research.
