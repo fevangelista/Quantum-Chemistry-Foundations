@@ -1,6 +1,13 @@
 ![logo](Graphics/logo.png)
 
-[![NSF-1928366](https://img.shields.io/badge/NSF-2312105-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2312105)
+<p align="center">
+<a target="_blank" href="https://nsf.gov/awardsearch/showAward?AWD_ID=2312105">
+<img src="https://img.shields.io/badge/NSF-2312105-blue.svg" alt="NSF Award ID 2312105 badge"/>
+</a>
+<a target="_blank" href="https://colab.research.google.com/github/fevangelista/Quantum-Chemistry-Foundations">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab badge"/>
+</a>
+</p>
 
 ## In brief
 
@@ -28,6 +35,10 @@ The following is a list of sections that form the **Quantum Chemistry Foundation
 - [03 - Advanced Hückel theory: Properties](03-Hückel%20Theory%20Properties/03-Hückel%20Theory%20Properties.ipynb). This second tutorial on Hückel theory focuses on packaging a computational method into a class and an analysis of the charge and spin distribution and bond order. (🚧 **under construction** 🚧)
 
 More tutorials and updates are on the way!
+
+## Access via Colab
+
+Use [the following link](https://colab.research.google.com/github/fevangelista/Quantum-Chemistry-Foundations) to access and execute the notebooks via Google's Colab.
 
 ## Support
 
