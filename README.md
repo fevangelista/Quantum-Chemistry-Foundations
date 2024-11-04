@@ -24,7 +24,7 @@
 **Quantum Chemistry Foundations** is a series of tutorials that explore some of the most important ideas of quantum chemistry.
 In these tutorials, you will learn about quantum chemistry from a computational perspective, which I think is a very effective complement to a detailed study of each method's formal aspects.
 
-These tutorials assume some basic knowledge of quantum mechanics and programming in Python. Coding using Jupyter notebooks requires minimal setup to follow and modify the code.
+These tutorials assume some basic knowledge of quantum mechanics and programming in Python. You can read the Jupyter notebooks on GitHub or download and run them locally on your computer or via [Google's Colab](https://colab.research.google.com/github/fevangelista/Quantum-Chemistry-Foundations).
 
 ## Tutorials
 
