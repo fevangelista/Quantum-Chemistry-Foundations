@@ -42,7 +42,10 @@ Use [the following link](https://colab.research.google.com/github/fevangelista/Q
 
 ## Support
 
-This project is supported by the National Science Foundation under Award CHEM 2312105. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+<body>
+<img src="Graphics/nsf_logo.png" width="90px" style="float:left;"/>
+This project is supported by the National Science Foundation under Award CHE 2312105. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+</body>
 
 ## Reuse and Licensing
 
