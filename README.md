@@ -30,9 +30,10 @@ These tutorials assume some basic knowledge of quantum mechanics and programming
 
 The following is a list of sections that form the **Quantum Chemistry Foundations** series.
 
-- [01 - An introduction to scientific python](01-Scientific%20Computing/01-Scientific%20Computing.ipynb). A quick introduction to NumPy and other useful tools for scientific computing. This can be skipped if you are already familiar with NumPy.
+- [01 - An introduction to scientific Python](01-Scientific%20Computing/01-Scientific%20Computing.ipynb). A quick introduction to NumPy and other useful tools for scientific computing. This can be skipped if you are already familiar with NumPy.
 - [02 - Hückel theory](02-Hückel%20Theory/02-Hückel%20Theory.ipynb). An introduction to Hückel theory and the concept of expanding molecular orbitals in a basis of atomic orbitals.
-- [03 - Advanced Hückel theory: Properties](03-Hückel%20Theory%20Properties/03-Hückel%20Theory%20Properties.ipynb). This second tutorial on Hückel theory focuses on computing the charge/spin distribution and bond order. (🚧 **under construction** 🚧)
+- [03 - Advanced Hückel theory: Properties](03-Hückel%20Theory%20Properties/03-Hückel%20Theory%20Properties.ipynb). This second tutorial on Hückel theory focuses on computing the charge/spin distribution and bond order.
+- 🚀 [04 - The Hydrogen Atom](04-Hydrogen%20Atom/04-Hydrogen%20Atom.ipynb). An in-depth journey into solving the Schrödinger equation for the hydrogen atom numerically using a basis of Gaussian functions. Includes a [tutorial](04-Hydrogen%20Atom/04-Hydrogen%20Atom%20Integrals.ipynb) on the derivation of all the integrals. (🚧 **under construction** 🚧)
 
 More tutorials and updates are on the way!
 
